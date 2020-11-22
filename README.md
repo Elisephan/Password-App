@@ -58,7 +58,7 @@ As a user I would like:
 
 ## Technologies Used
 
-- Python3.8
+- Python3.
 
 ## License
 
