@@ -4,7 +4,7 @@
 
 ## Description
 
-Password locker is a terminal run python application that allows users to store details i.e. usernames and passwords of their various accoun
+Password locker is a terminal run python application that allows users to store details i.e. usernames and passwords of their various account
 
 ## User Story
 
