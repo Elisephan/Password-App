@@ -4,7 +4,7 @@
 
 ## Description
 
-Password locker is a terminal run python application that allows users to store details i.e. usernames and passwords of their various accounts
+Password locker is a terminal run python application that allows users to store details i.e. usernames and passwords of their various account
 
 ## User Story
 
@@ -40,8 +40,8 @@ As a user I would like:
 ### Cloning
 
 - In your terminal:
-        $ git clone https://https://github.com/kclaudine/password-locker.git/
-        $ cd Password-locker
+  $ git clone https://https://github.com/kclaudine/password-locker.git/
+  $ cd Password-locker
 
 ## Running the Application
 
@@ -55,7 +55,6 @@ As a user I would like:
 - To run the tests for the class file:
 
         $ python3.8 user_credentials_test.py
-
 
 ## Technologies Used
 
