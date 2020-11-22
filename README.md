@@ -40,7 +40,7 @@ As a user I would like:
 ### Cloning
 
 - In your terminal:
-  $ git clone https://https://github.com/kclaudine/password-locker.git/
+  $ git clone https://github.com/Elisephan/Password-App.git
   $ cd Password-locker
 
 ## Running the Application
